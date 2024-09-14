@@ -6,7 +6,7 @@ My project for Unit 1 APCSA.
 
 Cities use asphalt art to improve public safety, inspire their residents and visitors, and brighten communities. Your goal is to create asphalt art to revitalize The Neighborhood and bring the community together with the help of the Painter.
 
-## Requirements
+## Requirements 
 
 Use your knowledge of object-oriented programming, algorithms, the problem solving process, and decomposition strategies to create asphalt art:
 - **Create a new subclass** – Create at least one new subclass of the PainterPlus class that is used for a component of the asphalt art design.
